@@ -1,4 +1,0 @@
-UDP/UDPServer.java
- UDP.UDPServer
-UDP/UDPClient.java
- UDP.UDPClient

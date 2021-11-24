@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package operation;
+
+option java_package = "buffers";
+option java_outer_classname = "RequestProtos";
+
+
+// every request has one of these types
+message Request {
+  enum OperationType {
+    PERMISSION = 0;             // requests permission from nodes
+  }
+}

@@ -53,6 +53,7 @@ This includes menu choice (integer), and tips to add to an array list (strings).
 communication is done back and forth through the Server and confirmed if correct input 
 as well as the correct answer (during the game).
    
+Screencast Link: https://www.youtube.com/watch?v=CHR8j1N88OY
    
 ## Issues in the code that were not included on purpose
 I had many struggles with the given assignment. No examples were given and it was 
